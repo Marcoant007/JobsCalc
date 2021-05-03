@@ -1,0 +1,19 @@
+{
+  "name": "maratona-discover-02-1.0.0",
+  "autor": "Marco Antonio",
+  "version": "1.0.0",
+  "description": "Freelance Calculator",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon . --transpile-only --ignore-watch node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
